@@ -1,6 +1,8 @@
 # Leadershipstudy
 The quantitative study of the influence of individuals in the senior leadership team on company performance
 
++++ We are actively looking for collaborators! +++
+
 In this project we want to examine the role managers play in the success or failure of a company.
 The brief scope of our analysis:
 - Company list: S&P 500
