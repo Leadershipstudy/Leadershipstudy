@@ -18,3 +18,7 @@ What we have in mind:
 - Determine the statistical relationships of how each person influenced the managed company. In addition, check whether personal data play a role, e.g. age and/or education..
 - Based on the results of the previous bullet, create the personal ranking of the managers.
 
+How we want to achieve this:
+- Collect data: a suitable crawler
+- Store data: database (postgres or mysql)
+
