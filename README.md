@@ -22,3 +22,5 @@ How we want to achieve this:
 - Collect data: a suitable crawler
 - Store data: database (postgres or mysql)
 
+First step:
+- Build up the entire data collection and storage chain with the limitation to 5 companies only for the last 5 years and only for CEO.
